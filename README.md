@@ -11,7 +11,7 @@
   
 YOU CAN DEPLOY FROM HEAR.....
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/baziix/noiopmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Duckoi1707/NoiOpMusic)
 
 ## 🏃‍♂ Pyrogram Session 
 
